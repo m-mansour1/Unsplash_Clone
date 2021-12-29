@@ -10,4 +10,5 @@
     height: 100vh;
     position: relative;
     background-image: url('../img/');
+    background-size: cover;
 }
